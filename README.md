@@ -5,7 +5,7 @@ Este Script tem a finalidade de otomizar o backup, e antes de finalizar o script
 
 <pre>#!/bin/bash</pre>
 
-Declarando variaveis
+#Declarando variaveis
 
 <pre>data=`date "+%Y%m%d-%H:%M"`
 usuario=postgres
